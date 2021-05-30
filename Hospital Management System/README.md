@@ -19,8 +19,9 @@
 2. Open Browser (google chrome, mozilla firefox)
 3. Type in the url (localhost/hospital)
 
-> Admin Login Details :
-user: gvpadmin@gmail.com
-pass: gvpadmin
+### Admin Login Details :
+> username: gvpadmin@gmail.com
+> 
+> password: gvpadmin
 
 > For Project Report and other files : [Click Here](../Hospital%20Management%20System/RequiredFiles/)
