@@ -1,4 +1,4 @@
-![](../RequiredFiles/bg.png)
+![](../Hospital%20Management%20System/RequiredFiles/bg.png)
 
 ### Setup :
 
