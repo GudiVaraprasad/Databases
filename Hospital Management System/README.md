@@ -23,4 +23,4 @@
 user: gvpadmin@gmail.com
 pass: gvpadmin
 
-> For Project Report and other files : [Click Here](../RequiredFiles/)
+> For Project Report and other files : [Click Here](../Hospital%20Management%20System/RequiredFiles/)
